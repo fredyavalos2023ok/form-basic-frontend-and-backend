@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  form input, form button {
+    margin: 5px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
